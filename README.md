@@ -2,10 +2,10 @@
 
 This is client-server based desktop application that provides the ability to keep track of patients, doctors and drugs.
 System provides the following options:
-*INSERT, UPDATE, DELETE, SEARCH (options) of patients.
-*INSERT, DELETE (options) of doctors.
-*INSERT, DELETE (options) of drugs.
-*INSERT, UPDATE (options) of therapy that is prescribed to patient. NOTE: therapy can contain multiple drugs.
+* INSERT, UPDATE, DELETE, SEARCH (options) of patients.
+* INSERT, DELETE (options) of doctors.
+* INSERT, DELETE (options) of drugs.
+* INSERT, UPDATE (options) of therapy that is prescribed to patient. NOTE: therapy can contain multiple drugs.
 
 # Use cases
 
