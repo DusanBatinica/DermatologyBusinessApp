@@ -37,4 +37,5 @@ This Project was written as a part of the course : Software design at the Univer
 # Contributed
 
 Dušan Batinica
+
 batinicadusan819@gmail.com
