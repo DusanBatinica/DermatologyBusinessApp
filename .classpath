@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Klijent/src"/>
+	<classpathentry kind="src" path="Server/src"/>
+	<classpathentry kind="src" path="Zajednicki/src"/>
+	<classpathentry kind="lib" path="Zajednicki/dist/Zajednicki.jar"/>
+	<classpathentry kind="output" path="Klijent/build/classes"/>
+</classpath>
