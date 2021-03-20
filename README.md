@@ -33,3 +33,8 @@ The [documentation](https://github.com/DusanBatinica/DermatologyBusinessApp/blob
 # Note
 
 This Project was written as a part of the course : Software design at the University of Belgrade, Faculty of Organizational Sciences.
+
+# Contributed
+
+Dušan Batinica
+batinicadusan819@gmail.com
