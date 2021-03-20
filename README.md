@@ -26,7 +26,7 @@ The following use cases are the use cases which are defined for this particular 
 Every implemented use case was tested. During the testing phase scenarios with both valid and invalid data were tested,
 to identify wether any erroneous code exists within application. Changes in code were implemented based off of test results.
 
-# Dermatoloy application documentation
+# Documentation
 
 The [documentation](https://github.com/DusanBatinica/DermatologyBusinessApp/blob/main/Documentation%20(Serbian)/DusanBatinica1054-15FINAL.pdf) that states the behaviour, capabilities and messages of system (application) written in serbian.
 
